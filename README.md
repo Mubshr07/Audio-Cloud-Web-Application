@@ -1,7 +1,25 @@
 # Project Name: Audio Cloud Platform
-
+This is the Final Year Project.
 ## Objective:
 Develop a robust platform, Audio Cloud, enabling users to upload, manage, and share audio files in various formats.
+
+
+## Design and Developed By: 
+	Student Name: 	Mubashir Iqbal 
+ 	Registration: 	BC140400342
+  	Program: 	Bachelor of Science in Computer Science
+   	Year:		2020
+    University:	Virtual University of Pakistan (VU)
+
+### Technologies:
+	1.	Backend language: PHP (core)
+ 	2.	Front-end: HTML5, CSS3, Bootstrap, JavaScript, JQuery
+  	3. 	Database: MySQL (using WampServer on Windows OS)
+   	4.	Ajax, JSON, API
+
+### For any Suggestion or query: 
+Email to: <a href="emailto:mubshr07@gmail.com"> mubshr07@gmail.com </a>
+
 
 ## Key Features:
 
@@ -30,20 +48,6 @@ The platform will utilize modern web technologies to ensure a seamless and respo
 	Muhammad Saeed Amjad
 ### University:
 [Virtual University of Pakistan (VU)](https://www.vu.edu.pk/)  
-
-## Design and Developed By:
-	Student Name: 	Mubashir Iqbal 
- 	Registration: 	BC140400342
-  	Program: 	Bachelor of Science in Computer Science
-
-### Technologies:
-	1.	Backend language: PHP (core)
- 	2.	Front-end: HTML5, CSS3, Bootstrap, JavaScript, JQuery
-  	3. 	Database: MySQL (using WampServer on Windows OS)
-   	4.	Ajax, JSON, API
-
-### For any Suggestion or query: 
-Email to: <a href="emailto:mubshr07@gmail.com"> mubshr07@gmail.com </a>
 
 # ---
 
