@@ -5,6 +5,15 @@ This project aims to develop a website named “AudioCloud” to store and share
    
 The registered user will be able to upload the audio in different categories such as Quran Recitations, Naats, Audio Lectures, Audio Notes, Sound Effects, Royalty music etc. There will be a proper interface(s) for registered users to manage their posts (audio files). The administrator of the website will have a proper Admin Panel through which he/she will be able to manage the whole website (approving or rejecting user registration requests, approving/rejecting posts, adding/deleting audio categories, searching uploaded audio files by different keywords and filters, uploading and deleting any audio file, etc.). There will be the proper audio player to run/play the audio files. There must be user-friendly interfaces and effective navigation schemes on the website. 
 
+
+## Design and Developed By:
+	Mubashir Iqbal | Lecturer | Data Science Research | Artificial Intelligence | System Engineering & Automation
+
+<img src="https://avatars.githubusercontent.com/u/34352213?v=4" width="150" height="150" alt="mubshr07@gmail.com" align="right" style="margin-left:10px;margin-right:10px;   border: 2px solid #555; border-top-left-radius:15px; border-bottom-right-radius:15px; ">
+I am Mubashir Iqbal, a Computer Science professional with a Master’s from COMSATS University Islamabad and a Bachelor’s from Virtual University Pakistan. Currently, I serve as a Lecturer at HITEC University, teaching and mentoring undergraduate students. My expertise includes AI, machine learning, data science, and software engineering, with a strong focus on system reliability and reusability. Passionate about eXplainable AI (XAI) to see how these AI blackbox model works. As a Software Engineer, I specialize in creating robust systems for both desktop and embedded environments using Qt C++. My skills also include Apache Server, PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Django, WordPress, and E-Commerce development, allowing me to effectively integrate and optimize systems. 
+
+Looking forward to collaborating and making a meaningful impact!👨🏻‍ 👨🏻‍💻
+
 ## Functional Requirements:
 The following are the key functional requirements of the proposed Project:
 
